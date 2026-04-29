@@ -1,4 +1,4 @@
-# 🍞 Bakery Website (Wix)
+# Bakery Website (Wix)
 
 ## Description
 Developed a bakery website using Wix to showcase products, provide business information, and improve customer engagement through an online platform.
